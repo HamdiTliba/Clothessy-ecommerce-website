@@ -17,4 +17,4 @@ router.post("/register", async (req, res) => {
   }
 });
 
-module.exports = auth;
+module.exports = router;
